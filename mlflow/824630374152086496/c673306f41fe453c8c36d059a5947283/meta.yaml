@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/824630374152086496/c673306f41fe453c8c36d059a5947283/artifacts
+end_time: 1762983247350
+entry_point_name: ''
+experiment_id: '824630374152086496'
+lifecycle_stage: active
+run_id: c673306f41fe453c8c36d059a5947283
+run_name: rumbling-squid-347
+run_uuid: c673306f41fe453c8c36d059a5947283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762983241683
+status: 3
+tags: []
+user_id: root

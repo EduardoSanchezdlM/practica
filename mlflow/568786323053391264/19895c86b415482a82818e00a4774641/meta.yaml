@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/19895c86b415482a82818e00a4774641/artifacts
+end_time: 1762983099913
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: 19895c86b415482a82818e00a4774641
+run_name: nimble-lynx-836
+run_uuid: 19895c86b415482a82818e00a4774641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762983086064
+status: 3
+tags: []
+user_id: root
